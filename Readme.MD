@@ -1,4 +1,4 @@
-Download Yelp data using this link:https://drive.google.com/file/d/1vURehJBBoTQCwz7RT2F2MlplWx_xXtap/view?usp=sharing
+Download Yelp data using this link: https://drive.google.com/file/d/1vURehJBBoTQCwz7RT2F2MlplWx_xXtap/view?usp=sharing
 
 Run classifier.py with no arguments and it will produce one file called words.txt and classifier.pickle for futures 
 uses. words.txt is the 2000 most common words from the given data, and classifier.pickle is the classifier. 
